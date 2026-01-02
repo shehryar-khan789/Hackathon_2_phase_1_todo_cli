@@ -17,8 +17,8 @@ This project was built using **Spec-Driven Development** with **Claude Code** an
 # 2. Installation
 
 1. Clone the repository
-git clone <YOUR_REPO_URL>
-cd <REPO_FOLDER>
+git clone <https://github.com/shehryar-khan789/Hackathon_2_phase_1_todo_cli>
+cd <phase_1_todo_cli>
 
 
 
@@ -28,7 +28,7 @@ python todo_cli.py
 
 # 3. How to Use
 
-1. Run `python todo_app.py`  
+1. Run `python todo_cli.py`  
 2. Menu will appear with numbered options  
 3. Type the number to select an action:
    1. Add Todo
